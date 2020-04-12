@@ -142,6 +142,7 @@ section.mockups .container {
 /** Two Icons **/
 section.two-icons {
   padding: 15% 0;
+  text-align: center;
 }
 section.two-icons img {
   width: 80px;
@@ -374,6 +375,9 @@ footer ul .fab {
   }
   section.mockups .container {
     padding: 5rem 2rem 2rem;
+  }
+  section.two-icons {
+    text-align: left;
   }
   section.two-icons img {
     width: 60px;
