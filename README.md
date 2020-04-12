@@ -2,6 +2,10 @@
 
 ![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
 
+## Solution! 👋
+
+View html and css file for code solution.
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
